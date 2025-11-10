@@ -38,3 +38,16 @@ Going back to our discussion, the reason why I want to revise my set of rules fo
 - The last one is that I want to protect either myself or someone by not going to be a "friend," and it is better to have walls between. An example would be: Ahmed is a cool new freshman at the university, and I want to take him under my wings by making friendship with him, aka investing emotions. But I might not do that. Although he passed the checklist and is now a good candidate, I might prefer to keep the default relationship (colleague) assigned to him. Why? Well, since he is too young, I’m not sure if by this sudden access to all sorts of amusement and ideologies, he will remain the one I hoped to make friendship with. This way I can protect myself from making friendships with Ahmed. Another pattern that happens a lot, is the other way around: University colleagues try to get to know me outside the University, and they are often pushed by walls I build to protect them from me. I don’t want them to invest their emotions in me because I don’t see myself as trustworthy, that I'm not someone they can really rely on, and I don't trust myself to handle that responsibility, at least not yet. This way, I protect them (and many times hurt them) using the walls I build and keeping them away from my friends zone, and most importantly, keep myself away from their friends zone.  
 
 At the end, maybe I'm just a traumatized kid formalizing all these rules to make friendship. In reality, I don't really suffer from this. In fact, I'm good at reaching out to people and making friendships. I don't struggle to communicate with people or get what I want. I don't have a bad time searching for quality time. And thinking about how much worse it could be without these rules, I remind myself to be grateful.  
+
+
+--- 
+What kind of walls do you mean exactly? 
+
+
+1. The first one, I assume, is to act ordinary (which is a product of the walls but it's just the first fence), acting ordinary is to not reveal the basic information about me, my name, my age, what I do in life. But this layer is fragile, once I'm asked, I don't mind answering, it helps me save time and avoid making unnecessary relationships, I can't count the amount of cool and bad people I could have made in life if I had never had this first wall which I now call the fence (it assumes acting dumb while knowing, being nonchalant while I'm a bit interested(this one started to fading recently I gotta get my shit together), sharing misguided information about me).
+
+2. The most important wall is the privacy wall. 
+I only allow a certain amount of information to get leaked from what I'm doing in my life. What I want to do. I'm not giving or sharing what violates my privacy. this includes (my family, my moves, my trips, my quality time, my free time, my friends, my performance, my upside-downs)
+
+3. less in height, subtle insecurities I don't plan to involve people in.
+
