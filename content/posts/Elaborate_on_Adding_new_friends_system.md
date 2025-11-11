@@ -66,8 +66,7 @@ This cycle of people showing genuine interest, then suddenly losing it, is hard.
 Thinking it’s *your* thing to figure me out, who did I think I was? King Richard the Fifth? May I never trust my judgment again.
 
 
-
-### Glimpse of side effects  
+### Glimpse of side effects: 
 
 What once felt unbearable to remember now feels necessary to recall. This one almost slipped out of memory, but when I lost those potential cool “friends,” I wasn’t happy about it. I remember now that I didn’t like it at all.  
 
