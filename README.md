@@ -1,5 +1,7 @@
 # a7.github.io
 
+> Notes aren’t a record of my thinking process. They are my thinking process. 
+> -Richard Feynman
 
 ##  About
 
