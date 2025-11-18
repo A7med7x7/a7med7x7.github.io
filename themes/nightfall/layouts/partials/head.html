@@ -1,4 +1,4 @@
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="{{.Description | default .Site.Params.SiteDescription}}">
 
@@ -23,5 +23,34 @@
 
 {{ $style := resources.Get "sass/main.scss" | toCSS $options | minify | fingerprint }}
 <link href="{{ $style.RelPermalink }}" rel="stylesheet">
+
+<!-- Regular font -->
+<link href="https://db.onlinewebfonts.com/c/e08e1402197c87523c042e4fcb918b83?family=WarnockPro-Regular" rel="stylesheet" type="text/css"/>
+<!-- Bold font -->
+<link href="https://db.onlinewebfonts.com/c/da37ece2c2d94c1b6b00561df8435b3f?family=Warnock+Pro+Bold+Display" rel="stylesheet" type="text/css"/>
+<!-- Italic font -->
+<link href="https://db.onlinewebfonts.com/c/italic-font-link" rel="stylesheet" type="text/css"/>
+
+{{ if .Site.Params.styles.color }}
+<style>
+    :root {
+        --theme-color: {{ .Site.Params.styles.color }};
+    }
+</style>
+{{ end }}
+
+<style>
+    body {
+        font-family: "WarnockPro-Regular", serif;
+    }
+
+    h1, h2, h3, h4, h5, h6, strong {
+        font-family: "Warnock Pro Bold Display", serif;
+    }
+
+    em, i {
+        font-family: "WarnockPro-Italic", serif;
+    }
+</style>
 
 {{ partial "custom-head.html" . }}
