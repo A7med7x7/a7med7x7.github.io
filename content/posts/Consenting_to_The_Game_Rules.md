@@ -28,14 +28,14 @@ but as you can see, most of these questions are philosophical, they are about me
 
 you can't be thriving and winning unless you stand and consent to the game rules. Staying the same and doing nothing will only make it worst, so we pick what is **less painful**; to get up and find answers, to contribute to humanity with what we will find.
 
-### Finding answers
+## Finding Answers
 
 Some of these questions you need to answer in order to consent willingly to the game rules can take years, and this is definitely not the best case scenario, especially in your case, where you want more answers to forecast accurately. However, the best case scenario is to have the ability to be **selectively ignorant**,
 
-#### selectively ignorant
+### Selectively Ignorant
 
 If you can classify these kinda of questions that will drag you into an infinite loop, it is better to carry on your work by ignoring these questions and having their burden in the background, in the hope that they will be answered one day. This will help minimize the complexity of your decision-making. Selective ignorance is applied in different parts of my life; maybe I will write more about it in the future.
 
-#### That will do
+### That Will do
 
 My second advice is not to overthink whether the answers you've got are optimal, or if it's an answer that made you feel good. If it fits and helps you in the process of getting closer to start consenting to the game rules, then use them as placeholders. The unveiled insights and joy of consenting to the game are more rewarding than the value of time wasted searching for the optimal. Do not care about the sources, it can come from something minor as a random quoted message you read on some random street walls written by a heartbroken lover, that you will consider as the last piece of the puzzle, TEDx talk, discussion with a friend. university course, whether your sources were science, religion. Whatever will do. do not change a word
