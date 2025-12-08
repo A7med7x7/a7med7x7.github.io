@@ -99,14 +99,14 @@
       <link>http://localhost:1313/posts/state-of-numbness/</link>
       <pubDate>Thu, 04 Sep 2025 17:43:34 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
       <guid>http://localhost:1313/posts/state-of-numbness/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Early to rise early to bed, makes a man healthy but socially dead&lt;/em&gt;&#xA;fantasy character quote&lt;/p&gt;&lt;/blockquote&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Early to rise early to bed, makes a man healthy but socially dead&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;fantasy character quote&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
     <item>
-      <title>why im doing this</title>
+      <title>Why I’m Sharing Notes</title>
       <link>http://localhost:1313/posts/why-i-do-this/</link>
       <pubDate>Thu, 04 Sep 2025 09:32:11 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
       <guid>http://localhost:1313/posts/why-i-do-this/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;do things badly&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;As the years pass by, I found my self adapt to different reason to keep living.&#xA;to share. I&amp;rsquo;m not as clear as I use to about why I should be posting,&#xA;but looking back over the years I recall how writing started. how reasons changed.&lt;/p&gt;</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;do things badly&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;As the years pass by, I find myself adapting to different reasons to keep living, and to share, I&amp;rsquo;m not as clear as I used to be about why I should be posting something publicly, but looking back over the years, I recall how writing started. How reasons changed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>21</title>
@@ -114,6 +114,20 @@
       <pubDate>Tue, 06 May 2025 12:19:23 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
       <guid>http://localhost:1313/posts/21/</guid>
       <description>&lt;p&gt;It&amp;rsquo;s May 6, and I will be turning 21 in less than a month.&#xA;I used to document at this time of the year, where I try as much as possible to reflect on the progress made this year, perhaps my learning process.&#xA;Alhamdullah, I have learned a lot. And I have tales to tell, but hopefully, choosing the most significant one will find a wider audience and fit.&#xA;I will talk in 3s three categories and 3 notes&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The greatest tragedy in life</title>
+      <link>http://localhost:1313/posts/the_greatest_tragedy_in_life/</link>
+      <pubDate>Sat, 29 Jun 2024 08:43:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/posts/the_greatest_tragedy_in_life/</guid>
+      <description>&lt;p&gt;I once read:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt; &lt;em&gt;“one of the greatest tragedies in life is that you will always be loved more than you will ever know, someone in your class might find your presence inviting and warm even if you’ve exchanged a few words with them or maybe none at all, someone on the street loves your smile and it brightens their path for the next few blocks, someone who regularly comes to work is disappointed when you aren&amp;rsquo;t there, someone missed you today, someone noticed when you’re gone, someone loves you when you’re there, someone loves you when you’re nowhere to be found at all, you might think you have always disappeared when you’re no longer in the picture, but you never left the frame”&lt;/em&gt; &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why I&#39;m Sharing Notes — Learned Too Late</title>
+      <link>http://localhost:1313/posts/why_im_sharing_notes/</link>
+      <pubDate>Tue, 19 Mar 2024 11:48:47 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/posts/why_im_sharing_notes/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;There&amp;rsquo;s an anecdote about Richard Feynman when a historian walks up to his desk and sees all the sheets of paper lying around on Mr Feynman desk and makes a comment about these being a record of Feynman&amp;rsquo;s thinking and then Mr Feynman corrects the historian and says that: these are not a record of my thinking i think on paper and then the historian presses on and says that surely you&amp;rsquo;re thinking in your head and these are only records of the thoughts in your head and that&amp;rsquo;s when Mr Feynman says:  no they aren&amp;rsquo;t a record of my thinking process they are my thinking process. I actually did the work on the paper.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

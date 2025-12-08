@@ -9,8 +9,7 @@ categories = ['reflection']
 
 
 >*Early to rise early to bed, makes a man healthy but socially dead*
-
->  fantasy character quote 
+ 
 
 <!--more-->
 
