@@ -1,6 +1,7 @@
 +++
 date = '2024-03-19T11:48:47+03:00'
 draft = false
+category = ["Archives"]
 title = "Why I'm Sharing Notes — Learned Too Late"
 +++
 
