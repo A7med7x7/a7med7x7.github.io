@@ -143,5 +143,12 @@
       <guid>http://localhost:1313/tags/gratitude/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Drafts</title>
+      <link>http://localhost:1313/tags/drafts/</link>
+      <pubDate>Mon, 02 Jun 2025 20:04:03 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/tags/drafts/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

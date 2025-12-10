@@ -10,6 +10,7 @@ I get asked:
 
 How do you deal with ordinary people? The ones that don't bother you? and when does it start that they enter your life?
 
+<!--more-->
 This question has got me thinking. I recalled that checklist (set of rules) I have for making new friends, but I have never revised the list for a while. I have seen cases where people just hack the system, and suddenly they are knocking on the door of my heart before even check-listing half of it.  
 The set of rules I have adapted is simple enough to help me make new friends; however, it does a greater job preventing “bad friends.” It makes sure I can still enjoy life and have good healthy relationships (without the need to call them friends), and this is where it helps me the most. More about it later; first, let’s get to see where this starts.  
 

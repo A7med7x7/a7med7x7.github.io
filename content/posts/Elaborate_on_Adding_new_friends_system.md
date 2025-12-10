@@ -7,9 +7,9 @@ feature_image = "https://github.com/A7med7x7/a7.github.io/blob/main/static/image
 categories = ['personal']
 +++
 
-> You don’t know about real loss, because that only occurs when you love something more than you love yourself. I doubt you’ve ever dared to love anybody that much.  
+> *You don’t know about real loss, because that only occurs when you love something more than you love yourself. I doubt you’ve ever dared to love anybody that much.*  
 > _Sean, Good Will Hunting (Park Bench Scene)_
-
+<!--more-->
 Although my previous blog post was expected to be an explanation of what I assumed to be something I adopted a long time ago and never updated before:
 
 > but I have never revised the list since a while  
@@ -19,7 +19,6 @@ I never expected the system to be perfect, or that I was doing what is ultimatel
 > [!IMPORTANT] I will be using the terms **system** and **legacy system** interchangeably. The term *legacy system* refers to an outdated but still functional computer system, software, or hardware that continues to be used because it performs its original, essential tasks, even as newer technologies emerge.
 
 > [!NOTE] I deliberately selected the term *value* when saying assigning the name “Friend”, because it is not just a word, I consider it a *value*. Calling you a friend adds the values that require me to “allow myself to fall, to invest my emotions.”
-
 
 by this elboration I hope to clear the misconceptions that might accure from my previous writing, it build on top of the previous blog post [Adding new friends system](https://a7med7x7.github.io/a7.github.io/posts/adding_new_friends_system/), you might want to take a look if you haven't. this conversation will particularly discuss the cases where the system is not good enough, why I was still using it?, how it is so bad to the people who should be friends. 
 
