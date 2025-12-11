@@ -18,4 +18,4 @@ The percentage here indicates the importance of the action and how it contribute
 
 Now this is the most important part, sleeping early is not enough, you need its complement, which is waking up early, whether you slept at 9:00 PM or 12:00 AM
 
-Waking up early always makes it better to concentrate
+Waking up early always makes it better to concentrate.

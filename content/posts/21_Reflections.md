@@ -7,7 +7,7 @@ category = ['Drafts']
 tags = ['Drafts']
 +++
 
-Today I folded the first 21 years of my life, years I can’t repeat or replay. I thank Allah for allowing me to live this long. Those first 21 years were upheavals.
+Today I folded the first 21 years of my life, years I can’t repeat or replay. I thank Allah for blessing me to live this long. Those first 21 years were upheavals.
 
 <!--more-->
 

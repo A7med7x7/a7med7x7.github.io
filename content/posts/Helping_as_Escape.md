@@ -1,7 +1,7 @@
 +++
 date = '2025-11-28T07:38:35+03:00'
 draft = false
-title = 'Helping as Escape'
+title = 'Helping as an Escape'
 tags = ['helping', 'family', 'hope']
 categories = ['reflections']
 +++
