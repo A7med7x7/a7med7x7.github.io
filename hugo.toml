@@ -9,7 +9,6 @@ hostname = "github.io"
 
 openLinksInNewTab = true
 
-
 showMetadata = true       # Master switch for all metadata display
 showPublishedDate = true  # Show published date on post page
 showReadingTime = true    # Show reading time on post page
@@ -24,6 +23,21 @@ avatarSize = "size-m"
 email = "ahmed@offsechq.com"
 avatarFirst = false
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[pagination]
+pagerSize = 6
+paginate = 5
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/a7med7x7"
+target = "_blank"
+aria = "GitHub Profile"
 
 [[params.social]]
 key = 1
