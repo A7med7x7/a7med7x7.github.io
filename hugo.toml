@@ -36,6 +36,7 @@ paginate = 5
 key = 0
 name = "github"
 url = "https://github.com/a7med7x7"
+icon = "fa-brands fa-github"
 target = "_blank"
 aria = "GitHub Profile"
 
