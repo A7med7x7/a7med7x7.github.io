@@ -1,7 +1,7 @@
 +++
 date = '2025-12-15T15:53:08+03:00'
 draft = false
-description = 'This is a pretty raugh draft on why Relationships are not ny playground, it helps unpacking my needs, its both a disclaimer I should have given earlier to every one before entering mylife, and a manual for new comers on how to Enter My Life, so far its a draft I will keep maintaining this page'
+description = "This is a pretty rough draft on why Relationships are not my playground. It helps unpack my needs. its both a disclaimer I should have given earlier to everyone before entering my life, and a manual for newcomers on how to Enter My Life. So far, it's a draft. I will keep maintaining this page"
 title = 'A User Manual for Being Close to Me'
 categories = ['personal']
 tags = [ 'relationships']
