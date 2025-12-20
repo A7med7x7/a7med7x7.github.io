@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/a-user-manual-for-being-close-to-me/</loc>
-    <lastmod>2025-12-15T15:53:08+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-12-20T22:56:44+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/five-unplanned-hours/</loc>
+    <lastmod>2025-12-20T22:56:44+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-12-20T22:56:44+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/a-user-manual-for-being-close-to-me/</loc>
     <lastmod>2025-12-15T15:53:08+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-12-15T15:53:08+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/personal/</loc>
-    <lastmod>2025-12-15T15:53:08+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-12-15T15:53:08+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/relationships/</loc>
@@ -30,6 +33,9 @@
     <lastmod>2025-12-11T16:06:01+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/i-learned-meaning-before-i-learn-pleasure/</loc>
+    <lastmod>2025-12-08T13:32:58+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/meta/</loc>
     <lastmod>2025-12-08T13:32:58+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/attachment/</loc>
@@ -119,16 +125,13 @@
     <loc>http://localhost:1313/posts/where_you_are_allowed_to_be_you/</loc>
     <lastmod>2025-11-06T23:15:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/writing/</loc>
-    <lastmod>2025-11-06T23:15:00+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/decision-making/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/frameworks/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/personal-philosophy/</loc>
+    <loc>http://localhost:1313/tags/personal-philosphy/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/the_limits_of_the_regret_minimization_framework/</loc>
@@ -142,9 +145,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/gratitude_register/</loc>
     <lastmod>2025-11-06T22:00:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/meta/</loc>
-    <lastmod>2025-09-04T09:32:11+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/why-i-do-this/</loc>
     <lastmod>2025-09-04T09:32:11+03:00</lastmod>
