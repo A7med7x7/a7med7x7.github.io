@@ -1,13 +1,11 @@
 +++
 date = '2026-01-26T00:00:00+03:00'
 draft = false
-title = "He Would Be Mad If I Didn't Call"
+title = "The Plates in The Chimney Flue"
 category = ['self']
 tags = ['guilt', 'avoidance', 'psychology']
 
 +++
-
-## The Plates in The Chimney Flue
 
 The moment I stopped running from what [I was avoiding](https://a7med7x7.github.io/posts/learning-to-feel-again/), I lost [the ability to block it again](https://a7med7x7.github.io/posts/i-didnt-know-how-to-be-with-me/).
 

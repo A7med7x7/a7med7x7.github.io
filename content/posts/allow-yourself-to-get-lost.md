@@ -17,7 +17,7 @@ This tension created a [state of uncertainty](https://a7med7x7.github.io/posts/u
 
 I was around fifteen when I accepted that I do not have the answers yet, and that this is fine. I will keep wondering and wandering until I find them. allowing yourself to get lost means refusing to cling to beliefs and workarounds that have no solid reason to stand. many people cannot tolerate that space. they rush to hold onto something, anything, just to silence the noise in their heads.
 
-I realized early that feeling lost is terrifying. no one wants to walk around without answers. so people desperately look for something that feels stable. they create their own version of reality or cling to beliefs offered by culture or authority, not necessarily because they are accurate, but because uncertainty feels unbearable. since I was sixteen, I kept repeating one sentence: getting lost is a part of the journey.
+I realized early that feeling lost is terrifying. no one wants to walk around without answers. so people desperately look for something that feels stable. they create their own version of reality or cling to beliefs offered by culture or authority, not necessarily because they are accurate, but because [uncertainty](https://a7med7x7.github.io/posts/uncertainty/)feels unbearable. since I was sixteen, I kept repeating one sentence: getting lost is a part of the journey.
 
 I knew that if I never allowed myself to get lost, I would never find what I was looking for. I was never interested in what simply made me feel good. I was interested in what was real, even if it scared me. that choice shaped the way I move through the world, it shaped the person I'm today.
 
