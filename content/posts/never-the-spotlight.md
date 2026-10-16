@@ -21,7 +21,7 @@ When I walked out of that interview, I was hoping I wouldn’t be chosen. It was
 
 When I was selected, my first reaction wasn’t pride. It was anxiety. A quiet internal question asking why I had put myself in that position. Then the war started, and circumstances became unstable in ways none of us anticipated. Yet in the middle of that instability, we managed to collaborate with [IEEE](https://web.facebook.com/IEEE.UofK), the [FMS Student Association](https://web.facebook.com/FmsAssociation1), and present CyberClash, a cybersecurity bootcamp for students at the university.
 ![Image](https://res.cloudinary.com/dkmutnahg/image/upload/v1773373832/IMG_8490_oudhfs.jpg)
-*First Meeting with newely formed SSE Team*
+*First Meeting with newly formed SSE Team*
 
 People appreciated what we built. The work mattered. I loved the people I worked with, and I believe they trusted me. What surprises me now is that the spotlight did not destroy me. It did not expose incompetence. It did not unravel me. It simply made me uncomfortable.
 

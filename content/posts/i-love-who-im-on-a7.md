@@ -14,6 +14,6 @@ Learning the foundations is where the real weight lies. the amount of concentrat
 
 Once you pass this critical stage, everything else starts to feel like practice. you already have the foundations. you already have a mental model that helps you generalize to new tools and ideas. the learning curve becomes less steep. What looks like rapid progress from the outside is often just repetition built on solid ground.
 
-You will still face momentary difficulty when switching software or design styles. but during those phases of practice, you regain enough mental capacity and time to invest elsewhere.fFor me, that elsewhere became learning how to code.
+You will still face momentary difficulty when switching software or design styles. but during those phases of practice, you regain enough mental capacity and time to invest elsewhere. For me, that elsewhere became learning how to code.
 
 That is how I managed multiple interests. not by chasing everything at once, but by moving forward in sequence, patiently, and with intention.

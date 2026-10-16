@@ -22,7 +22,7 @@ Ahmed: okay, take your time 
 
 Awab: The conversation flow was basically, so what if you don’t work? What are you afraid of, basically, so I was exploring my fear, that was what I wanted, I wanted to explore the fear so I could have something to be afraid off, so I could have something to run away from, as opposed to something to be motivated to go towards, that was also a 1% improvement, it didn’t do it, it helped, but like it wasn’t, it wasn’t the solution, but all of this thinking did lead me to have one of the worst nights of my life.
 
-Awab: I had a conversation with my friends, at the time, I didn’t have a good time, I didn’t enjoy it, a lot was happening in my head so I started writing it down, and as I’m writing it down, I look at what I’m writing, and I’m like, this makes no sense, I don’t believe… I don’t believe these things that I’m saying, I don’t have these opinions, I’m writing stuff like, oh, my friends hate me, one second later, thats one hundred percent false, and thats a very silly thing to say, we have all these evidences, what are you talking about, and then one second later I’m back to: oh my friends hate me, and its like I’m have two completely…. It was very scary to lose my own trust in my own thoughts, like these thoughts are not mine,
+Awab: I had a conversation with my friends, at the time, I didn’t have a good time, I didn’t enjoy it, a lot was happening in my head so I started writing it down, and as I’m writing it down, I look at what I’m writing, and I’m like, this makes no sense, I don’t believe… I don’t believe these things that I’m saying, I don’t have these opinions, I’m writing stuff like, oh, my friends hate me, one second later, that's one hundred percent false, and that's a very silly thing to say, we have all these evidences, what are you talking about, and then one second later I’m back to: oh my friends hate me, and its like I’m have two completely…. It was very scary to lose my own trust in my own thoughts, like these thoughts are not mine,
 
 Ahmed: this is the scariest thing
 
@@ -42,7 +42,7 @@ This conflict happening inside, between two contractors notions is the worst to 
 
 There is a moment in life that feels almost illegal, something happens that directly disproves what you believed was true about the world. not intellectually, but experientially.
 
-You see it, you feel it, It is confirmed in front of you. snd yet, you still resist it. for Awab, it was the belief that his friends hated him, collapsing in front of overwhelming evidence that they were there for him. for Theo Von, it was someone caring deeply when he had grown up believing nobody cared.
+You see it, you feel it, It is confirmed in front of you. and yet, you still resist it. for Awab, it was the belief that his friends hated him, collapsing in front of overwhelming evidence that they were there for him. for Theo Von, it was someone caring deeply when he had grown up believing nobody cared.
 
 For me, it was different, the experiences were not the same. the belief had different shapes. the history behind them was different.
 
@@ -56,7 +56,7 @@ A force that says,
 “This is temporary.”  
 “This doesn’t change what you know.”
 
-It is terrifying to realize that your own beliefs can be inaccurate. that what you carried as unquestionable truth may have been a survival narrative.tThat your subconscious built a model of the world, but now contradicts reality.
+It is terrifying to realize that your own beliefs can be inaccurate. that what you carried as unquestionable truth may have been a survival narrative. That your subconscious built a model of the world, but now contradicts reality.
 
 And when reality disproves your belief, your mind does not celebrate, It fights.
 

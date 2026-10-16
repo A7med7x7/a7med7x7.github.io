@@ -19,7 +19,7 @@ I don’t have exact memories. I’m not able to feel anything about it again. I
 
 I even asked Esraa Jalal, my colleague who used to accompany me on the way back home since we were almost neighbors: Do you remember anything from your high school experience? She seemed to remember every single detail.
 
-It wasn’t because the experience was joyful for her while it was unpleasing for me. she even remembered the hard times. nd since I know her well, I knew that it was a difficult period in her life. I could even tell it was worse for her than it was for me. yet she still remembered it.
+It wasn’t because the experience was joyful for her while it was unpleasing for me. she even remembered the hard times. and since I know her well, I knew that it was a difficult period in her life. I could even tell it was worse for her than it was for me. yet she still remembered it.
 
 At some point, I thought maybe this was a gender related thing. men tend to forget things more easily, and women are more emotionally attached, so they keep memories around. that idea might have held some truth for me at the time, but later I realized that my male friends were not as bad as I was when it came to remembering previous experiences, whether it was high school or anything else.
 

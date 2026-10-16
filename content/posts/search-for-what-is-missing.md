@@ -27,7 +27,7 @@ Sometimes we settle into suboptimal states because they are safe, you do not nee
 
 But sometimes suboptimal becomes heavy, sometimes it starts to suffocate you, not catastrophically. just subtly. you laugh, but something feels missing. you succeed, but something feels unaligned. you are surrounded, but something feels lonely.
 
-And that is when investigation becomes necessary not impulsive change. not reckless abandonment. investigation. you stop and ask yourself honestly: [am I okay?](minizing your pain) or is there something I am afraid to admit? is there a dimension of me that has no outlet? is there a desire I keep suppressing because it feels inconvenient? is there a type of friend, goal, lover, or environment that I secretly crave but never pursue?
+And that is when investigation becomes necessary not impulsive change. not reckless abandonment. investigation. you stop and ask yourself honestly: [am I okay?](minimizing your pain) or is there something I am afraid to admit? is there a dimension of me that has no outlet? is there a desire I keep suppressing because it feels inconvenient? is there a type of friend, goal, lover, or environment that I secretly crave but never pursue?
 
 Name it, is it ambition? is it intellectual companionship? is it emotional depth? is it creative freedom? is it spiritual alignment? identify it clearly instead of floating in vague dissatisfaction.
 

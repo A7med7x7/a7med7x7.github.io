@@ -8,7 +8,7 @@ tags = ['identity', 'growth', 'reflection']
 series = ['condition-of-seeing']
 series_order = 3
 +++
-It is almost always the case that I avoid giving productivity tips or life hacks, anything that would make someone life better through accomplishing a task, as I see that it has nothing to do with applying tips and tricks more than having a mindset. for example if someone is having the mindset of becoming better, they would pay attention to advices, and eventually sticking to habits would be easier.
+It is almost always the case that I avoid giving productivity tips or life hacks, anything that would make someone life better through accomplishing a task, as I see that it has nothing to do with applying tips and tricks more than having a mindset. for example if someone is having the mindset of becoming better, they would pay attention to advice, and eventually sticking to habits would be easier.
 <!--more-->
 > *Motivation alone is not enough, if you have an idiot and you motivate him, now you have a motivated idiot.*
 

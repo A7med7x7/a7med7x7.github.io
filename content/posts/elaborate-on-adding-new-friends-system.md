@@ -18,7 +18,7 @@ I never expected the system to be perfect, or that I was doing what is ultimatel
 
 > [!NOTE] I deliberately selected the term *value* when saying assigning the name “Friend”, because it is not just a word, I consider it a *value*. Calling you a friend adds the values that require me to “allow myself to fall, to invest my emotions.”
 
-by this elboration I hope to clear the misconceptions that might accure from my previous writing, it build on top of the previous blog post [Adding new friends system](https://a7med7x7.github.io/posts/adding-new-friends-system/), you might want to take a look if you haven't. this conversation will particularly discuss the cases where the system is not good enough, why I was still using it?, how it is so bad to the people who should be friends.
+by this elaboration I hope to clear the misconceptions that might occur from my previous writing, it build on top of the previous blog post [Adding new friends system](https://a7med7x7.github.io/posts/adding-new-friends-system/), you might want to take a look if you haven't. this conversation will particularly discuss the cases where the system is not good enough, why I was still using it?, how it is so bad to the people who should be friends.
 
 ## Why so many rules? Life is meant to be simple.
 
@@ -137,7 +137,7 @@ Some questions the system simply can’t answer well:
     Some people are great under the scope of a project or purpose, but outside it, I can’t find what links us. Their attempts get pended.
 
   - **Undefined “something”:**  
-    othertimes its more specific cases, For example, someone once part of my team, ideally female, wanted to get to know me outside of that shared goal. “Female friend”? I have no definition for that. How should I act? I don’t know, but I’ll definitely run away from anything undefined, lol.  
+    other times its more specific cases, For example, someone once part of my team, ideally female, wanted to get to know me outside of that shared goal. “Female friend”? I have no definition for that. How should I act? I don’t know, but I’ll definitely run away from anything undefined, lol.  
 
 
 If this isn’t your case, good for you. Some people don’t suffer from basic questions like deciding whether to make someone a friend or not. But I do, not enough to urgently change, but enough to notice it.

@@ -47,4 +47,4 @@ I never took my career too seriously. I let it flow with the questions I was cur
 
 ## Clarity
 
-For the first time, I gained clarity about who I am, especially in the last three months.I can’t say I’m proud of what I discovered. I mostly uncovered my darker sides. But even that is progress, progress I once wished for, even if I don’t like what it revealed, I thought I was ready,  I thought I could face the truth about myself, It turns out I was frightened. snd maybe that, too, is clarity.
+For the first time, I gained clarity about who I am, especially in the last three months.I can’t say I’m proud of what I discovered. I mostly uncovered my darker sides. But even that is progress, progress I once wished for, even if I don’t like what it revealed, I thought I was ready,  I thought I could face the truth about myself, It turns out I was frightened. and maybe that, too, is clarity.

@@ -9,7 +9,7 @@ A friend sent a link to our group chat at midnight on the last day of 2025. I jo
 <!--more-->
 When most of them left, only four of us remained. Mahmoud was among them. the energy shifted. it was quieter. more personal. they asked me what I had been doing recently. it was a simple question, but I knew the honest answer immediately. I had been writing. almost obsessively. yes, there were other things in my life, but writing had become my priority.
 
-I told them something I had not told anyone so directly before. I told them I was finally starting to understand myself, yhen I shared something harder.
+I told them something I had not told anyone so directly before. I told them I was finally starting to understand myself, then I shared something harder.
 
 I told them I was sorry. sorry that they had all been victims of my [constant avoidance](https://a7med7x7.github.io/posts/learning-the-truth-about-how-i-love/). I told them it was never personal. it was never about them lacking something. it was about [how I was built](https://a7med7x7.github.io/posts/not-build-for-relationships-the-way-you-think/). I explained again how closeness scared me. how intimacy triggered something defensive inside me. and then I stopped talking. I wanted to see if they understood.
 

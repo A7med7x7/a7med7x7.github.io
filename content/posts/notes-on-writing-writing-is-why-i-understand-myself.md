@@ -25,7 +25,7 @@ In this writing, I want to share how writing becomes a way out.not a motivationa
 
 ## Commit `# 49b8fb4`
 
-Six months ago, I made a decision that looked irrational from the outside. I decided to stop everything in my life and focus on writing. not because I had a clear plan. not because I had an audience to entrtain. but because it was the only thing that felt real. It was the only thing that clicked internally.
+Six months ago, I made a decision that looked irrational from the outside. I decided to stop everything in my life and focus on writing. not because I had a clear plan. not because I had an audience to entertain. but because it was the only thing that felt real. It was the only thing that clicked internally.
 
 I created [a blog website](https://a7med7x7.github.io/posts/). I slowly shifted away from [technical writing](https://medium.com/@ahmedalghali), where I had comfortably drowned myself in the world of computers, and began to focus inward. I did not know [what I wanted to write exactly](https://a7med7x7.github.io/posts/why-i-do-this/#:~:text=and%20I%20don%E2%80%99t%20know%20yet%20how%20I%E2%80%99m%20going%20to%20organize%20them). I only knew that if I did not return to writing seriously, I would continue drifting.
 

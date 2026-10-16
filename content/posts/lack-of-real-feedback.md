@@ -7,7 +7,7 @@ tags = ['growth', 'relationships', 'identity']
 +++
 ### **Progress:**  
 
-One of the good things I lack in my life is receiving feedback. Usually, everyone assumes that I’m an expert at everything, and they tend to define the way of our communication based on my social presence (oh, that’s Ahmed, everyone likes this dude. he is amazing… etc) while the reality is significantly different. I know several quality skills, like anyone, without having superpowers, I know how to speak, communicate, but I guarantee you I’m not the best!, and there is alot that you don't know about me.
+One of the good things I lack in my life is receiving feedback. Usually, everyone assumes that I’m an expert at everything, and they tend to define the way of our communication based on my social presence (oh, that’s Ahmed, everyone likes this dude. he is amazing… etc) while the reality is significantly different. I know several quality skills, like anyone, without having superpowers, I know how to speak, communicate, but I guarantee you I’m not the best!, and there is a lot that you don't know about me.
 <!--more-->
 
 The problem is the iconography that the presenters who lead conversations/first time meets tend to define me with! They overglorify my story and the person I am, and this is not serving me in any way. The smarter the presenter will present you, the more independent you are likely to become.

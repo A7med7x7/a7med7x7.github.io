@@ -38,4 +38,4 @@ From a logical standpoint, minimizing your own suffering is fallacious. you shou
 As stated earlier, comparison can be useful, but usefulness does not justify dismissal. the existence of a greater problem does not make smaller problems irrelevant. your problem is still important. this is basic logic, yet we repeatedly fall into the trap of minimizing our own problems and justifying it by telling ourselves they don’t matter, all in the name of staying functional.
 ## A recommended read
 
-If this topic resonates with you, I recommend reading the following [poem](https://www.aldiwan.net/poem9380.html). it beautifully captures the essence of acknowledging one's pain, it caputes the ethics of awareness, not charity, not guilt, but consciousness, keeping things in mind.
+If this topic resonates with you, I recommend reading the following [poem](https://www.aldiwan.net/poem9380.html). it beautifully captures the essence of acknowledging one's pain, it captures the ethics of awareness, not charity, not guilt, but consciousness, keeping things in mind.

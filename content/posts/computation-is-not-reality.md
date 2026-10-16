@@ -32,4 +32,4 @@ However, your grasp of domain knowledge is often indirect. most of the time, you
 
 ### Physical reality
 
-I’ve come to realize that I’m deeply interested in understanding the physical reality we live inm and the laws that govern it.
+I’ve come to realize that I’m deeply interested in understanding the physical reality we live in and the laws that govern it.

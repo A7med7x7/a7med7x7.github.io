@@ -13,7 +13,7 @@ You've probably heard someone say that time management is the key. schedules, bl
 
 It is not time management. it is energy management. and the moment you understand that distinction, of finally knowing that how it felt, the contrast between your sharpest days and your worst, everything I need to hear was this term, and then everything reorganized.
 
-The days I've actually been productive, I wasn't managing my time. I was managing my state. the quality of my focus across the hours, not the quantity of them. because what's the point of a full schedule if your brain logged out two hours in? I could be awake for twenty four hours and have my mind with me for only two of them. the rest is just a body in a chair. me looking at the screen, but not able to focus, not able to learn, and not able to feel producive.
+The days I've actually been productive, I wasn't managing my time. I was managing my state. the quality of my focus across the hours, not the quantity of them. because what's the point of a full schedule if your brain logged out two hours in? I could be awake for twenty four hours and have my mind with me for only two of them. the rest is just a body in a chair. me looking at the screen, but not able to focus, not able to learn, and not able to feel productive.
 
 The cycle most people are running, and I've been in it, goes like this: motivation arrives, you build a schedule, you focus for a little while, then you slow down, then your energy collapses, then your brain goes to sleep before you do. and because you didn't finish what you planned, you blame yourself. and the self blame drains what's left. you end the day having done less than you wanted and feeling worse than when you started. same cycle, next morning.
 

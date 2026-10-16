@@ -20,7 +20,7 @@ I found myself imagining a kind of paradise around the idea that he was never as
 
 _uniqueness is just him being true to himself, acting natural and manifesting what he feels in the way he likes_
 
-if this uniqueness exists in an alternative world, a world where he couldn’t be himself freely, where his natural self would be judged as strange akward. where his uniqueness is akwardness.
+if this uniqueness exists in an alternative world, a world where he couldn’t be himself freely, where his natural self would be judged as strange awkward. where his uniqueness is awkwardness.
 
 Watching him leave the stage while everyone clapped, appreciating what he had shared, reminded me of how many intellectuals from my country travel abroad to pursue their careers in the United States or other Western nations that seem to value what they can offer.  
 often saying,  
@@ -29,7 +29,7 @@ often saying,
 
 This isn’t about how the United States has built the perfect habitats for nerds and anyone who wants to be themselves; by embracing people as they are and shaping social norms around tolerance, rather than judgment.  
 
-It’s more about how bad I feel coming from regions where being your true self is misunderstood, misused, and simpy is a crime.  
+It’s more about how bad I feel coming from regions where being your true self is misunderstood, misused, and simply is a crime.  
 
 At that particular moment, watching him leave the stage, I remembered how unlucky we are for not growing up in environments that encourage us to nerd out, to share the things we are obsessed with in our own way, or even to share them at all.  
 

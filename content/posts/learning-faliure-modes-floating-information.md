@@ -1,5 +1,5 @@
 +++
-title = 'Learning Faliure Modes - Floating Information'
+title = 'Learning Failure Modes - Floating Information'
 date = '2024-04-12T10:50:51+04:00'
 draft = false
 categories = ['learning']

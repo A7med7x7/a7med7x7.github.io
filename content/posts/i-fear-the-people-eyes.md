@@ -11,7 +11,7 @@ There was only one exception, he was like a boomerang. That is the most accurate
 
 He used to get angry at me for disappearing, for not telling him what I was going through, for vanishing without explanation. but surprisingly, he never left. he kept coming back.
 
-At fourteen or fifteen, I finally confronted something in my heart. I admitted that he was my friend. he had been there since we were single digits in age. for the first time, although I had acted like a friend before, I never actually [attached the word](https://a7med7x7.github.io/posts/adding-new-friends-system/#:~:text=If%20you%20keep%20saying%20everyone%20is%20your%20friend%2C%20you%20will%20end%20up%20wounded%20alot.) to someone. that moment made him the first real friend I ever consciously named. And he was the best of them.
+At fourteen or fifteen, I finally confronted something in my heart. I admitted that he was my friend. he had been there since we were single digits in age. for the first time, although I had acted like a friend before, I never actually [attached the word](https://a7med7x7.github.io/posts/adding-new-friends-system/#:~:text=If%20you%20keep%20saying%20everyone%20is%20your%20friend%2C%20you%20will%20end%20up%20wounded%20a%20lot.) to someone. that moment made him the first real friend I ever consciously named. And he was the best of them.
 
 He still tells me that I am lying when I say I did not count him as a friend earlier. he insists I always did, my actions where saying so. And maybe he is right. I loved him from the beginning. but the oscillation was still there. love did not remove the pattern. It only survived it.
 

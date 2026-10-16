@@ -1,5 +1,5 @@
 +++
-title = 'Learning Faliure Modes - Branching'
+title = 'Learning Failure Modes - Branching'
 date = '2024-04-12T10:50:51+03:00'
 draft = false
 categories = ['learning']
@@ -9,7 +9,7 @@ series_order = 2
 +++
 This is part of a series of notes I’m taking to understand the person I am when learning something. most of them are about understanding myself and applying useful techniques.
 
-Reading about neuroscience can help me save time instead of experimenting blindly and trying to see what works. and I plan to study neuroscience some day, but as for now I want to share what I've learned by myself, as I spent the first 19 years of my life learning how to learn. I never even signed up for the famous Coursera course on this topic. the road of learnign was lonely, paved with faliure moods, it was an experimentation based road.
+Reading about neuroscience can help me save time instead of experimenting blindly and trying to see what works. and I plan to study neuroscience some day, but as for now I want to share what I've learned by myself, as I spent the first 19 years of my life learning how to learn. I never even signed up for the famous Coursera course on this topic. the road of learning was lonely, paved with failure modes, it was an experimentation based road.
 
 <!--more-->
 These lessons are carefully tested, and they worked many times for me. they were filtered among many others. they might not be as solid as those relying on science and proof. unfortunately, I don’t have data to show you. my experience is the data.
@@ -34,7 +34,7 @@ When you finally finish, you realize you barely scratched the surface.
 
 ## Diagnosis
 
-The reasons I can caount to fell into this branching trap are:
+The reasons I can account to fell into this branching trap are:
 
 - **Self-taught**  
   I learned how to study by myself from an early age. This led me to apply the freedom I felt while taking online courses at my own pace to the real world. I would deeply search niche topics that were sometimes irrelevant to what I was supposed to study.  
@@ -55,7 +55,7 @@ The reasons I can caount to fell into this branching trap are:
   If you believe that reading everything is useful and aspire to become a polymath, you may fall into this trap due to poor content management. the more you branch, the more productive you feel.
 
 - **Exploration**  
-  I find this to be the least problematic reason. ror example, if you are trying to choose a master’s program and can’t find the right niche, your branching might continue until you do.
+  I find this to be the least problematic reason. For example, if you are trying to choose a master’s program and can’t find the right niche, your branching might continue until you do.
   In this case, branching can actually help. just be careful if you are doing it subconsciously.
 
 - **Boredom** 
