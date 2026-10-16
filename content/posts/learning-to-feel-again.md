@@ -14,7 +14,7 @@ For a while, I hesitated to do a lot of things. I [hesitated to make new friends
 
 The reason is I was, and to this very day [concerned with the questions](https://a7med7x7.github.io/posts/i-fear-the-person-i-will-become/#:~:text=The%20cycle%20starts%20with%20me%20being%20very%20concerned%20with%20a%20question) that deviated me from being socially active. One of these questions is:  
 
-> What happens to a young person’s expectations about life when most of what they see one the internet are idealized stories, overly wise, unrealistic narratives? What happens to my community if this is the kind of discussion being shared publicly, which is mostly unproductive, pointless, trivial, and hollow? Can I change this?
+> What happens to a young person’s expectations about life when most of what they see on the internet are idealized stories, overly wise, unrealistic narratives? What happens to my community if this is the kind of discussion being shared publicly, which is mostly unproductive, pointless, trivial, and hollow? Can I change this?
 
 I'm still young, actively consuming data from the world, learning, and constantly changing. Sharing my opinions is not making the world a better place, I'm sure whatever I write be deprecated by my [constantly evolving beliefs](https://a7med7x7.github.io/posts/i-fear-the-person-i-will-become/). so why bother writing? the world has enough of people talking, saying they want to make it a better place. The world is full of people who are more "qualified" to talk than myself although no one listens to them. Writing random quotes on social media that can mean different things to different people, or sharing a meme that can help someone heal, was enough for me.  
 
