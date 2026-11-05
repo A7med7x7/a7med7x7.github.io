@@ -1,5 +1,5 @@
 +++
-date = '2026-11-05T19:31:00+03:00'
+date = '2026-03-30T19:31:00+03:00'
 draft = false
 title = 'Buying Time'
 category = ['philosophy']
